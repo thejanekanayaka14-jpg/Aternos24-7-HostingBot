@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "VOIDMapsmp.aternos.me:13327",
+    "port": 13327,
     "version": "",
     "try-creative": false
   },
