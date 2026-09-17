@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VOIDMapsmp.aternos.me:",
+    "ip": "VOIDMapsmp.aternos.me",
     "port": 13327,
     "version": "",
     "try-creative": false
