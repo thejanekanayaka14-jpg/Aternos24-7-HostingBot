@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blazewarfare626.mcsh.io",
-    "port": 25565,
+    "ip": "VOIDMapsmp.aternos.me",
+    "port": 13327,
     "version": "",
     "try-creative": false
   },
